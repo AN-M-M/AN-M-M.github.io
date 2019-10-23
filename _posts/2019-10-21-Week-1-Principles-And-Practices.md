@@ -257,3 +257,66 @@ I had inadvertently deleted the jekyll code while typing out the code for this f
 ![JEKYLL CODE ADDED IMAGE](/images/jekyllcode.png){:height="360px" width="500px"}
 
 With the errors corrected, the other thing I noticed while correcting and testing the codes was that there was a significant lag between the time I correct the code and the corrected code getting reflected on the website. Manu said that I might have to do a hard refresh (command + shift + R) on Mac to remove the caches and get the website to work with the new codes. So every time I commit a new code, I now do a hard refresh - sometimes it works, sometimes it still doesn’t work and I need to give it some time. I refresh both the code page as well as the website. 
+
+**Day 5 - 23 October 2019 (Wednesday), 12:24pm**
+
+While adding content to the website, here are some of the other errors I encountered, along with steps on how I resolved these errors.
+
+Adding the Linkedin hyperlink to my CV page
+
+In the interest of avoiding redundancies between my multiple social media accounts (and at the risk of sounding lazy), I linked my linkedin page to the CV page. However, on committing the code and refreshing the page, I found the 404 error again.
+
+On reviewing the index file within the CV directory, I noticed that the index file was saved as a html file. For the file to work and the webpage to load, I required it to be saved as a markdown file. So I changed the file from “index.html” to “index.md”. The CV page was now linked and opened up.
+
+Adding images to the blog page
+
+The code to add images to the blog page is ![image description](path to image).
+
+For this I created a new directory in my repository called images, and uploaded all the images I had taken so far while documenting my learning and code errors.
+
+IMAGE TOBE ADDED
+
+However, despite adding the code, the image did not show up on committing the changes. It showed the entire code in text format, and not as a picture. 
+
+I tried converting the image file from JPG to PNG -- the image still did not show up.
+
+Then while researching on possible solutions to this error, I noticed that the forward slash was missing in the code.
+
+Here’s the incorrect code:
+
+IMAGE TO BE ADDED
+
+Here’s the corrected code with the right syntax:
+
+IMAGE TO BE ADDED
+
+Changing the name of the repository
+
+On documenting my learning for week 1, and once my website was fully up and running, I decided to see if the website would still work if I changed the name of the repository from
+AN-M-M.github.io to atelieranjou.github.io.
+
+To do this, I selected settings in the repository page:
+
+IMAGE TO BE ADDED
+
+Found the repository name with a ‘Rename’ button next to it.
+
+IMAGE TO BE ADDED
+
+Changed the repo name to ‘atelieranjou.github.io
+
+IMAGE TO BE ADDED
+
+Once I clicked on rename, I did a hard refresh on this page, and my website. However, my website broke, and showed a 404 error. I waited for 30mins to see if it was because of a lag effect, which is often the case. But even after 30mins, the website did not load.
+
+So I downloaded all the files onto my local desktop.
+
+IMAGE TO BE ADDED
+
+Deleted the existing repository. To delete an existing repository, again select settings, and scroll down to the bottom of the page and select the ‘delete repository’ button.
+
+IMAGE TO BE ADDED
+
+I then recreated a new repository and uploaded all the files I had downloaded, and voila, the website was again up and running.
+
+Manu’s theory is also that github will only allow you to set up those websites that are the same as your user name, which is why AN-M-M/AN-M-M.github.io will work, but AN-M-M/anjalineelakantan.github.io will not. I need to run this theory by Richard and conduct some additional research on this.
