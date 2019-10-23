@@ -22,7 +22,7 @@ R: What is the age we are in currently?
 
 A: I don’t know
 
-R: We are in the age of information -- everything is available in the form of some information. How things have progressed over the ages is first there was the artisanal age where things were handmade and in small quantities. They were customised items sometimes serving very specific needs. Then came the industrial age, where people invented machines that could make the same items that the artisans were making but on a larger scale and more quickly. Then came the corporate age (I can’t recollect how he defined this age.), and now we are in the information age. The Skill-Ed programme allows us to return to the artisan’s age, but taking with us the advancements that the industrial, corporate and information ages have to offer to us. Fab labs are these communities that allow you to make anything. After the first lab that was set up in the US, the second one was set up in a village near Pune (Paval). This is often referred to as ground zero because the lab mentors wanted to test if the skills provided through the workshop and training actually help upskill people with no prior skills. The main purpose of all these labs are to democratise learning and make learning accessible. What is one thing that is not accessible to you as an individual today?
+R: We are in the age of information -- everything is available in the form of some information. How things have progressed over the ages is first there was the artisanal age where things were handmade and in small quantities. They were customised items sometimes serving very specific needs. Then came the industrial age, where people invented machines that could make the same items that the artisans were making but on a larger scale and more quickly. Then came the corporate age, which continued the scaling up, and now we are in the information age. The Skill-Ed programme allows us to return to the artisan’s age, but taking with us the advancements that the industrial, corporate and information ages have to offer to us. Fab labs are these communities that allow you to make anything. After the first lab that was set up in the US, the second one was set up in a village near Pune (Vigyan Ashram). This is often referred to as ground zero because the lab mentors wanted to test if the skills provided through the workshop and training actually help upskill people with no prior skills. The main purpose of all these labs are to democratise learning and make learning accessible. What is one thing that is not accessible to you as an individual today?
 
 A: The knowledge and tools to make the product that I want to.
 
@@ -76,7 +76,7 @@ Today, I will do two things -- firstly, document each of the items in the maker 
 
 So now, I’m going to explore github. I signed up on github yesterday, but the user interface looks intimidating -- something that a coder may be familiar with, but looks completely alien to me.This is what the landing page looks like:
 
-![github opening page on sign up](/images/githubopeningpage.png){:height="360px" width="500px"}
+![github opening page on sign up](/images/githubopeningpage.png)
   
 I took a break from the video tutorials to speak with Saali, the in-house digital fabricator.
 
@@ -186,19 +186,19 @@ Since I was not familiar with github, I reached out to Richard for help, and he 
 
 I used this to set up my [personal page](https://an-m-m.github.io/)
 
-![website landing page](/images/landingpage.png){:height="360px" width="500px"}
+![website landing page](/images/landingpage.png)
 
 Each of the grey words on the page are hyperlinks that will take the reader to a new page. This is the home page. When you select ‘About’, it will take you to a new page, which currently does not have any content. However, the other two hyperlinks on top are currently not working:
 
 CV - I have only created an index.html file like I did for ‘About’ (as outlined in Step 16 of the tutorial), but it is throwing the following error.
 
-![404 ERROR IMAGE](/images/error404.png){:height="360px" width="500px"}
+![404 ERROR IMAGE](/images/error404.png)
 
 We have not figured out how to fix the error yet, but will be creating another repository from scratch to see what the error could be.
 
 Blog - Steps 11 to 15 in the tutorial are supposed to yield a blog page that is supposed to look like this. 
 
-![hank's blog page](/images/hankblog.png){:height="360px" width="500px"}
+![hank's blog page](/images/hankblog.png)
 
 However, on clicking blog on my webpage, it does not throw an error or move to the blog page. Instead it continues to remain on the same home page. There is some link missing here, but it is unclear what that link is.
 
@@ -218,17 +218,17 @@ CV page
 
 Since this showed a 404 error, I looked up my directories and files related to the CV page for anything that looked different between my codes and those of the tutorial. I found that I had capitalised the director name for CV. 
 
-![CAPS CV IMAGE](/images/CVcaps.png){:height="360px" width="500px"}
+![CAPS CV IMAGE](/images/CVcaps.png)
 
 However, the codes in ‘layout/defaults.html’ was referring to cv in small letter (see below).
 
-![SMALL CV CODE IMAGE](/images/smallcverror.png){:height="360px" width="500px"}
+![SMALL CV CODE IMAGE](/images/smallcverror.png)
 
 So while I had copied code in the defaults.html file directly from the online tutorial. I had typed out the name of the directory and by force of habit, I name the directory CV in capitals, since we generally write CV in capitals. 
 
 So instead of changing the directory name, I modified the code to change the “cv” to “CV.”
 
-![CAPS CV CODE IMAGE](/images/capitalcv.png){:height="360px" width="500px"}
+![CAPS CV CODE IMAGE](/images/capitalcv.png)
 
 Once, I made this change, committed it and reloaded the website, the CV page opened up without any errors.
 
@@ -240,21 +240,21 @@ Error 1: Incorrect date format
 
 As I was hesitant to make errors, I copied the codes from the tutorial verbatim in all places, including for the date format for posts directory.
 
-![YYYYMMDD IMAGE](/images/YYYYMMDD.png){:height="360px" width="500px"}
+![YYYYMMDD IMAGE](/images/YYYYMMDD.png)
 
 This is incorrect, because the code was converting the numbers, which it expected as an input, into string or text. So when I changed that to a proper date, like below, the blog page opened up as expected.
 
-![CORRECTED DATE IMAGE](/images/rightdateformat.png){:height="360px" width="500px"}
+![CORRECTED DATE IMAGE](/images/rightdateformat.png)
 
 Error 2: Missing Jekyll code
 
-In layouts/posts.html, while comparing my code with the tutorial, I noticed that “{{content}}”, jekyll code, was missing.
+In layouts/posts.html, while comparing my code with the tutorial, I noticed that “content" in flower brackets, jekyll code, was missing.
 
-![JEKYLL CODE MISSING IMAGE](/images/jekyllcodemissing.png){:height="360px" width="500px"}
+![JEKYLL CODE MISSING IMAGE](/images/jekyllcodemissing.png)
 
 I had inadvertently deleted the jekyll code while typing out the code for this file. I corrected it and the corrected version looks like this.
 
-![JEKYLL CODE ADDED IMAGE](/images/jekyllcode.png){:height="360px" width="500px"}
+![JEKYLL CODE ADDED IMAGE](/images/jekyllcode.png)
 
 With the errors corrected, the other thing I noticed while correcting and testing the codes was that there was a significant lag between the time I correct the code and the corrected code getting reflected on the website. Manu said that I might have to do a hard refresh (command + shift + R) on Mac to remove the caches and get the website to work with the new codes. So every time I commit a new code, I now do a hard refresh - sometimes it works, sometimes it still doesn’t work and I need to give it some time. I refresh both the code page as well as the website. 
 
