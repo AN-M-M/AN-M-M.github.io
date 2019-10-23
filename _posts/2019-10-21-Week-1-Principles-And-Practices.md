@@ -75,7 +75,7 @@ Today, I covered two things -- firstly, I documented each of the items in the ma
 
 I signed up on github yesterday, but the user interface looks intimidating -- something that a coder may be familiar with, but looks completely alien to me.This is what the landing page looks like:
 
-![github opening page on sign up](/images/githubopeningpage.png)
+![github opening page on sign up](/images/githubopeningpage.png){:height="400px" width="600px"}
   
 I took a break from the video tutorials to speak with Saali, the in-house digital fabricator.
 
