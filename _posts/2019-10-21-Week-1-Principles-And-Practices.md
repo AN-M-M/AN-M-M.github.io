@@ -114,67 +114,67 @@ Now each of these in a little bit of detail.
 
 ![3D printers](/images/3Dprinters2.jpg){:height="360px" width="500px"}
 
-The 3D printers available here are XXX model. The model will come with its own list of specifications that will outline what kind of inputs can be used. These 3D printers are predominantly used for rapid protoyping using a method called fusion deposition modelling. For instance, the standard 3D printers, including the ones here in the workshop use spools or filament of different types of plastic. The prominent ones that are used are -- PLA (Poly Lactic Acid), ABS (Acrylonitrile Butadiene Styrene), FLEX (combination of PET-G and TPU), and PET-G. Each material has its own strength and weaknesses and hence different uses. For instance, ABS is typically used in car interiors and panelling. These printers can print objects with dimensions: 20cm by 20cm by 20cm. The spool of plastic that is used in the printers usually has a diameter of 1.7mm.
+  The 3D printers available here are XXX model. The model will come with its own list of specifications that will outline what  kind of inputs can be used. These 3D printers are predominantly used for rapid protoyping using a method called fusion deposition modelling. For instance, the standard 3D printers, including the ones here in the workshop use spools or filament of different types of plastic. The prominent ones that are used are -- PLA (Poly Lactic Acid), ABS (Acrylonitrile Butadiene Styrene), FLEX (combination of PET-G and TPU), and PET-G. Each material has its own strength and weaknesses and hence different uses. For instance, ABS is typically used in car interiors and panelling. These printers can print objects with dimensions: 20cm by 20cm by 20cm. The spool of plastic that is used in the printers usually has a diameter of 1.7mm.
 
 2. Handheld 3D scanner
 
-This is quite an interesting tool -- it is first connected to a laptop using a wire. The 3D scanner has a camera and a gyroscope, which is moved gently around the object or person that needs to be scanned -- moving slowly from left to right, keeping the object/person at a distance. I watched a 3D scan of the digital fabricator mentor, Saali. This can be fed into the 3D printer for printing.
+  This is quite an interesting tool -- it is first connected to a laptop using a wire. The 3D scanner has a camera and a gyroscope, which is moved gently around the object or person that needs to be scanned -- moving slowly from left to right, keeping the object/person at a distance. I watched a 3D scan of the digital fabricator mentor, Saali. This can be fed into the 3D printer for printing.
 
 3. PCB maker
 
 ![PCB maker](/images/PCBmaker.jpg){:height="360px" width="500px"}
 
-This machine allows for the electrical circuit design to be engraved on the board. The gel purpose PCB generally has a plastic base, with a 0.1mm thickness of copper layered on top of it. The PCB maker is fed the electrical circuit design, and all it does is leave an engraving on the board. This is called a milling process and is a form of subtractive manufacturing.
+  This machine allows for the electrical circuit design to be engraved on the board. The gel purpose PCB generally has a plastic base, with a 0.1mm thickness of copper layered on top of it. The PCB maker is fed the electrical circuit design, and all it does is leave an engraving on the board. This is called a milling process and is a form of subtractive manufacturing.
 
 4. Mug printer
 
 ![mug printer](/images/mugprinter.jpg){:height="360px" width="500px"}
 
-This can print on top of  mug -- need to check with Saali if printing means adding something colourful or its black and white? It can take only flat surface and regular shaped mugs, but not urn shaped mugs.
+  This can print on top of  mug -- need to check with Saali if printing means adding something colourful or its black and white? It can take only flat surface and regular shaped mugs, but not urn shaped mugs.
 
 5. Cap printer
 
-I have not seen it yet, since it is not with the other tools on the workshop floor.
+  I have not seen it yet, since it is not with the other tools on the workshop floor.
 
 6. Tshirt printer
 
 ![tshirt printer](/images/tshirtprinter.jpg){:height="360px" width="500px"}
 
-This can print on top of tshirts. How it works, is that a sticker is first printed (using an external vendor), and the sticker is pressed on to the tshirt with some heat to imprint the design on the sticker onto the tshirt. Cotton tshirts work best, because polyester may melt.
+  This can print on top of tshirts. How it works, is that a sticker is first printed (using an external vendor), and the sticker is pressed on to the tshirt with some heat to imprint the design on the sticker onto the tshirt. Cotton tshirts work best, because polyester may melt.
 
 7. Miniature laser cutting machine (3D printer, PCB plotter, engraving)
 
 ![mini laser cutter](/images/minilasercutter.jpg){:height="360px" width="500px"}
 
-This machine has been designed in-house -- unclear to me if an existing 3D printer was converted to serve all three purposes or it was fully made from scratch here. But it is mostly used for the three purposes mentioned here, and not much for laser cutting. It uses a 5W diode laser.
+  This machine has been designed in-house -- unclear to me if an existing 3D printer was converted to serve all three purposes or it was fully made from scratch here. But it is mostly used for the three purposes mentioned here, and not much for laser cutting. It uses a 5W diode laser.
 
 8. Sticker/Vinyl cutter
 
 ![stickercutter](/images/stickercutter.jpg){:height="360px" width="500px"}
 
-If you have a sticker design and want that shaped cut out of a sheet of paper, the sticker/vinyl cutter can do it.
+  If you have a sticker design and want that shaped cut out of a sheet of paper, the sticker/vinyl cutter can do it.
 
 9. Laser engraver
 
 ![laser engraver](/images/laserengraver.jpg){:height="360px" width="500px"}
 
-This can be used to engrave on top of wood and acrylic.
+  This can be used to engrave on top of wood and acrylic.
 
 10. Laser cutter
 
 ![Laser cutter](/images/lasercutter.jpg){:height="360px" width="500px"}
 
-This can be used to cut through wood and acrylic.
+  This can be used to cut through wood and acrylic.
 
 11. CNC router
 
-This allows for larger engraving?
+  This allows for larger engraving?
 
 12. Design computer 
 
 ![digital computer](/images/digitalcomputer.jpg){:height="360px" width="500px"}
 
-If you create a design for an object, any one of the above machines can then be used to create the physical form of the object. 
+  If you create a design for an object, any one of the above machines can then be used to create the physical form of the object. 
 
 Apart from exploring the digital fabrication machines, I will take some time to explore other forms of documentation as well, like [wikifactory](https://wikifactory.com/) and [inventables](https://www.inventables.com/). 
   
@@ -270,7 +270,11 @@ On reviewing the index file within the CV directory, I noticed that the index fi
 
 Adding images to the blog page
 
-The code to add images to the blog page is exclamationmark followed by image desription in square brackets and path to image in circular brackets.
+The code to add images to the blog page is 
+```
+![image description](path to image)
+Example: ![fabacademy landing page](/images/fabacademylandingpage.png)
+```
 
 For this I created a new directory in my repository called images, and uploaded all the images I had taken so far while documenting my learning and code errors.
 
