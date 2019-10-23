@@ -191,7 +191,7 @@ Since I was not familiar with github, I reached out to Richard for help, and he 
 
 I used this tutorial to set up my [personal page](https://an-m-m.github.io/)
 
-![website landing page](/images/landingpage.png){:height="360px" width="600px"}
+![website landing page](/images/landingpage.png){:height="360px" width="700px"}
 
 Each of the grey words on the page are hyperlinks that will take the reader to a new page. This is the home page. When you select ‘About’, it will take you to a new page, which currently does not have any content. However, the other two hyperlinks on top are currently not working:
 
