@@ -125,13 +125,13 @@ Now each of these in a little bit of detail.
 
 3. PCB maker
 
-![PCB maker](/images/PCBmaker.jpg){:height="360px" width="500px"}
+![PCB maker](/images/pcbmaker.png){:height="360px" width="500px"}
 
   This machine allows for the electrical circuit design to be engraved on the board. The gel purpose PCB generally has a          plastic base, with a 0.1mm thickness of copper layered on top of it. The PCB maker is fed the electrical circuit design,      and all it does is leave an engraving on the board. This is called a milling process and is a form of subtractive             manufacturing.
 
 4. Mug printer
 
-![mug printer](/images/mugprinter.jpg){:height="360px" width="500px"}
+![mug printer](/images/mugprinter.png){:height="360px" width="500px"}
 
   This can print on top of  mug -- need to check with Saali if printing means adding something colourful or its black and white? It can take only flat surface and regular shaped mugs, but not urn shaped mugs.
 
@@ -141,7 +141,7 @@ Now each of these in a little bit of detail.
 
 6. Tshirt printer
 
-![tshirt printer](/images/tshirtprinter.jpg){:height="360px" width="500px"}
+![tshirt printer](/images/tshirtprinter.png){:height="360px" width="500px"}
 
   This can print on top of tshirts. How it works, is that a sticker is first printed (using an external vendor), and the sticker is pressed on to the tshirt with some heat to imprint the design on the sticker onto the tshirt. Cotton tshirts work best, because polyester may melt.
 
