@@ -270,7 +270,7 @@ On reviewing the index file within the CV directory, I noticed that the index fi
 
 Adding images to the blog page
 
-The code to add images to the blog page is ![image description](path to image).
+The code to add images to the blog page is exclamationmark followed by image desription in square brackets and path to image in circular brackets.
 
 For this I created a new directory in my repository called images, and uploaded all the images I had taken so far while documenting my learning and code errors.
 
