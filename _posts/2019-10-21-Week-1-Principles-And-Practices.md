@@ -131,7 +131,7 @@ Now each of these in a little bit of detail.
 
 4. Mug printer
 
-![mug printer](/images/mugprinter.png){:height="360px" width="500px"}
+![mug printer](/images/mugprinter.png){:height="360px" width="400px"}
 
   This can print on top of  mug -- need to check with Saali if printing means adding something colourful or its black and white? It can take only flat surface and regular shaped mugs, but not urn shaped mugs.
 
@@ -147,7 +147,7 @@ Now each of these in a little bit of detail.
 
 7. Miniature laser cutting machine (3D printer, PCB plotter, engraving)
 
-![mini laser cutter](/images/minilasercutter.png){:height="360px" width="450px"}
+![mini laser cutter](/images/minilasercutter.png){:height="360px" width="400px"}
 
   This machine has been designed in-house -- unclear to me if an existing 3D printer was converted to serve all three purposes or it was fully made from scratch here. But it is mostly used for the three purposes mentioned here, and not much for laser cutting. It uses a 5W diode laser.
 
