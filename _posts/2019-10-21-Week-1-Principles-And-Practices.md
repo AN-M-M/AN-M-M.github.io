@@ -274,7 +274,7 @@ The code to add images to the blog page is ![image description](path to image).
 
 For this I created a new directory in my repository called images, and uploaded all the images I had taken so far while documenting my learning and code errors.
 
-IMAGE TOBE ADDED
+![images folder](/images/images folder.png)
 
 However, despite adding the code, the image did not show up on committing the changes. It showed the entire code in text format, and not as a picture. 
 
@@ -284,11 +284,11 @@ Then while researching on possible solutions to this error, I noticed that the f
 
 Here’s the incorrect code:
 
-IMAGE TO BE ADDED
+![image without slash](/images/imagewoslash.png)
 
 Here’s the corrected code with the right syntax:
 
-IMAGE TO BE ADDED
+![image with slash](/images/imagewslash.png)
 
 Changing the name of the repository
 
@@ -297,25 +297,25 @@ AN-M-M.github.io to atelieranjou.github.io.
 
 To do this, I selected settings in the repository page:
 
-IMAGE TO BE ADDED
+![settings in repository](/images/settingsrepository.png)
 
 Found the repository name with a ‘Rename’ button next to it.
 
-IMAGE TO BE ADDED
+![original repo name](/images/reporename.png)
 
 Changed the repo name to ‘atelieranjou.github.io
 
-IMAGE TO BE ADDED
+![renamed repo](/images/reponameatelier.png)
 
 Once I clicked on rename, I did a hard refresh on this page, and my website. However, my website broke, and showed a 404 error. I waited for 30mins to see if it was because of a lag effect, which is often the case. But even after 30mins, the website did not load.
 
-So I downloaded all the files onto my local desktop.
+So I downloaded all the files in the AN-M-M.github.io repository onto my local desktop.
 
-IMAGE TO BE ADDED
+![repo download](/images/downloadfiles.png)
 
 Deleted the existing repository. To delete an existing repository, again select settings, and scroll down to the bottom of the page and select the ‘delete repository’ button.
 
-IMAGE TO BE ADDED
+![delete repo](/images/deleterepository.png)
 
 I then recreated a new repository and uploaded all the files I had downloaded, and voila, the website was again up and running.
 
