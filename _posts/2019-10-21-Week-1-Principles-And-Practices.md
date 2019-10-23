@@ -105,6 +105,8 @@ In the digital fabrication workshop, they have the following machines:
 
 12. Design computer - 1 no.
 
+13. Badge printer - 1 no.
+
 Now each of these in a little bit of detail.
 
 1. 3D printers
@@ -116,6 +118,8 @@ Now each of these in a little bit of detail.
   The 3D printers available here are XXX model. The model will come with its own list of specifications that will outline what    kind of inputs can be used. These 3D printers are predominantly used for rapid protoyping using a method called fusion        deposition modelling. For instance, the standard 3D printers, including the ones here in the workshop use spools or           filament of different types of plastic. The prominent ones that are used are -- PLA (Poly Lactic Acid), ABS (Acrylonitrile      Butadiene Styrene), FLEX (combination of PET-G and TPU), and PET-G. Each material has its own strength and weaknesses and     hence different uses. For instance, ABS is typically used in car interiors and panelling. These printers can print objects      with dimensions: 20cm by 20cm by 20cm. The spool of plastic that is used in the printers usually has a diameter of 1.7mm.
 
 2. Handheld 3D scanner
+
+![handheld scanner](/images/handheldscanner.jpg){:height="360px" width="500px"}
 
   This is quite an interesting tool -- it is first connected to a laptop using a wire. The 3D scanner has a camera and a          gyroscope, which is moved gently around the object or person that needs to be scanned -- moving slowly from left to right,    keeping the object/person at a distance. I watched a 3D scan of the digital fabricator mentor, Saali. This can be fed into    the 3D printer for printing.
 
@@ -167,7 +171,9 @@ Now each of these in a little bit of detail.
 
 11. CNC router
 
-  This allows for larger engraving?
+![cnc router](/images/cncrouter.png){:height="360px" width="500px"}
+
+  While the laser cutter can cut through wood and acrylic, the CNC router is for cutting through metal. This is referred to as a 2.5D carving machine. It can also create 3D-looking images on wood, much like relief structures that we see in buildings.
 
 12. Design computer 
 
