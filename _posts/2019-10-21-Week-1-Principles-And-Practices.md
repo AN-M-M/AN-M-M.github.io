@@ -4,7 +4,7 @@ title: "Week 1: Principles and Practices"
 date: 2019-10-23
 ---
 
-I have decided to document my Skill-Ed work day-by-day. So every week, I will be able to tell what I did on any given day. I believe that this will help me document what I learn here at the workshop and use it for future reference.
+I decided to document my Skill-Ed work day-by-day. This will help me document what I learn here at the workshop more systematically, and use it for future reference.
 
 **Day 1 - 17 October 2019 (Thursday), 1.45pm**
 
@@ -32,9 +32,9 @@ Richard then showed me all the resources available on the fab academy page. I wa
 
 ![Introductory video](/images/principlesandpractices.png){:height="360px" width="500px"}
 
-I will need to rewatch the video as I didn’t fully grasp some of the references he makes in the first half an hour of the video. Neil talks about how there are 1600 fab labs across the world, and that the purpose of these labs are to create an ecosystem and an institutional framework that will allow makers to create value and reduce harm. Risk mitigation is an important aspect of these fab labs. The speakers in the presentation also spoke about integrating social systems into these fab lab ecosystem. I can’t recollect clearly now how they proposed to do that integration.] Neil went through how one should go about their final project -- they have a list of things that the final presentation should be able to demonstrate and cover. 
+I will need to rewatch the video as I didn’t fully grasp some of the references he makes in the first half an hour of the video. Neil spoke about how there are 1600 fab labs across the world, and that the purpose of these labs are to create an ecosystem and an institutional framework that will allow makers to create value and reduce harm. Risk mitigation is an important aspect of these fab labs. The speakers in the presentation also spoke about integrating social systems into these fab lab ecosystem. I can’t recollect clearly how they proposed to do that integration. Neil went through how a fab academy student should go about their final project -- they have a list of things that the final presentation should be able to demonstrate and cover. 
 
-What I got out of this video is that the programme is not only about creating a new product, but also understanding how to create the machinery that will create this product, especially if its a new product. 
+What I got out of this video is that the programme is not only about creating a new product, but also understanding how to create the machinery that will create this product, especially if it is a new product. 
 
 Once I finished watching the video, Richard took me through what a documentation process should look like. I should have the following sections: about me, my course journey -ideally split week-wise and module-wise, and related assignment, and project work.
 
@@ -56,11 +56,11 @@ A good way to figure out what a good project will be is to do soemthing that is 
 
 For documentation purposes, there are a number of ways to do so:
 
-1. Github
+1. [Github](https://github.com/)
 
-2. Instructables
+2. [Instructables](https://www.instructables.com/)
 
-Both have their own features on what is feasible - so use one that best suits my needs. 
+Both have their own features on what is feasible - so I need to use one that best suits my needs. 
 
 Task for Week 1: Identify the best way to document my work. 
 
@@ -68,13 +68,12 @@ Task for Week 1: Identify the best way to document my work.
 
 In today’s class, Richard took me through the workbench project phase. I think the broad classification of spaces are as follows:
 
-Maker spaces workshop, with section on digital fabrication and wood workshop, Cubicles for startups -- one is working on electric vehicles, another on making school work fun, another on stem education for children, another on making rockets
-Academy space for individuals who are learning as a part of Skill-Ed
-Cafeteria and open space with a garden where there are projects on aquaponics and hydroponics (I have made a mental note to look up both).
+Maker spaces workshop, with section on digital fabrication and wood workshop, Cubicles for startups -- one is working on electric vehicles, another on making school work fun, another on stem education for children, another on making rockets, and
+academy space for individuals who are learning as a part of Skill-Ed, a cafeteria and open space with a garden where there are projects on aquaponics and hydroponics (I have made a mental note to look up both).
 
-Today, I will do two things -- firstly, document each of the items in the maker spaces workshop and understand what they do, and secondly, I will try to understand the different documentation tools available online before deciding which one will work best for me. 
+Today, I covered two things -- firstly, I documented each of the items in the maker spaces workshop and made note of what each of these machines do, and secondly, I reviewed the different documentation tools available online. 
 
-So now, I’m going to explore github. I signed up on github yesterday, but the user interface looks intimidating -- something that a coder may be familiar with, but looks completely alien to me.This is what the landing page looks like:
+I signed up on github yesterday, but the user interface looks intimidating -- something that a coder may be familiar with, but looks completely alien to me.This is what the landing page looks like:
 
 ![github opening page on sign up](/images/githubopeningpage.png)
   
@@ -180,11 +179,11 @@ Apart from exploring the digital fabrication machines, I will take some time to 
   
 **Day 3 - 21 October 2019 (Monday), 1:40pm**
 
-After having reviewed wikifactory and inventables, both seemed similar to instructables, with a focus on showcasing and explaining project-specific work. While they seem suitable for a final project, to document my day-to-day work here at Skill-Ed, github seems more appropriate. Also, most members at Skill-Ed community seem to be working and documenting on github, so it seems like an appropriate tool to learn and use as a part of this programme.
+After having reviewed [wikifactory](https://wikifactory.com/) and [inventables](https://www.inventables.com/), both seemed similar to [instructables](https://www.instructables.com/), with a focus on showcasing and explaining project-specific work. While they seem suitable for a final project, to document my day-to-day work here at Skill-Ed, github seems more appropriate. Also, most members at Skill-Ed community seem to be working and documenting on github, so it seems like an appropriate tool to learn and use as a part of this programme.
 
-Since I was not familiar with github, I reached out to Richard for help, and he shared the link to a tutorial. You can find the tutorial here. This guide has a detailed step-by-step guide on how to set up a personal website on github. 
+Since I was not familiar with github, I reached out to Richard for help, and he shared the link to a [tutorial on setting up a website on github](http://jmcglone.com/guides/github-pages/). This guide has a detailed step-by-step guide on how to set up a personal website on github. 
 
-I used this to set up my [personal page](https://an-m-m.github.io/)
+I used this tutorial to set up my [personal page](https://an-m-m.github.io/)
 
 ![website landing page](/images/landingpage.png)
 
@@ -216,7 +215,7 @@ Last evening, I spent a fair bit of time trying to debug the errors. Both Richar
 
 CV page
 
-Since this showed a 404 error, I looked up my directories and files related to the CV page for anything that looked different between my codes and those of the tutorial. I found that I had capitalised the director name for CV. 
+Since this showed a 404 error, I looked up my directories and files related to the CV page for anything that looked different between my codes and those of the tutorial. I found that I had capitalised the directory name for CV. 
 
 ![CAPS CV IMAGE](/images/CVcaps.png)
 
@@ -224,7 +223,7 @@ However, the codes in ‘layout/defaults.html’ was referring to cv in small le
 
 ![SMALL CV CODE IMAGE](/images/smallcverror.png)
 
-So while I had copied code in the defaults.html file directly from the online tutorial. I had typed out the name of the directory and by force of habit, I name the directory CV in capitals, since we generally write CV in capitals. 
+So while I had copied the code in the defaults.html file directly from the online tutorial. I had typed out the name of the directory and by force of habit, I name the directory CV in capitals, since we generally write CV in capitals. 
 
 So instead of changing the directory name, I modified the code to change the “cv” to “CV.”
 
@@ -256,7 +255,7 @@ I had inadvertently deleted the jekyll code while typing out the code for this f
 
 ![JEKYLL CODE ADDED IMAGE](/images/jekyllcode.png)
 
-With the errors corrected, the other thing I noticed while correcting and testing the codes was that there was a significant lag between the time I correct the code and the corrected code getting reflected on the website. Manu said that I might have to do a hard refresh (command + shift + R) on Mac to remove the caches and get the website to work with the new codes. So every time I commit a new code, I now do a hard refresh - sometimes it works, sometimes it still doesn’t work and I need to give it some time. I refresh both the code page as well as the website. 
+With the errors corrected, the other thing I noticed while correcting and testing the codes was that there was a significant lag between the time I correct the code and the corrected code getting reflected on the website. Manu said that I might have to do a hard refresh (command + shift + R) on Mac to remove the caches and get the website to work with the new codes. So every time I commit a new code, I now do a hard refresh - sometimes it works, sometimes it still doesn’t work and I need to give it some time. Every time I make changes to the code page, I refresh both the code page as well as the website. 
 
 **Day 5 - 23 October 2019 (Wednesday), 12:24pm**
 
