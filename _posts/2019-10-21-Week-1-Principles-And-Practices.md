@@ -348,7 +348,11 @@ Step 2: For github to recognise a favicon it has be a .ico file. So, I first con
 
 Step 3: I then uploaded the ICO file into my image folder on the github repository.
 
-Step 4: Using the instructions I found online on a [Medium blog](https://medium.com/@LazaroIbanez/how-to-add-a-favicon-to-github-pages-403935604460), I used the code from the page and inserted it into the defaults file in the layouts folder. I knew this to be the right place for the code, because all the code in the defaults file replicate across all the pages on my website --- which is why the ‘Home’, ‘About’, ‘CV’, and ‘Blog’ headings in grey can be seen on every page on my website.
+Step 4: Using the instructions I found online on a [Medium blog](https://medium.com/@LazaroIbanez/how-to-add-a-favicon-to-github-pages-403935604460), I used the code from the page and inserted it into the defaults file in the layouts folder. 
+
+```<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">```
+
+I knew this to be the right place for the code, because all the code in the defaults file replicate across all the pages on my website --- which is why the ‘Home’, ‘About’, ‘CV’, and ‘Blog’ headings in grey can be seen on every page on my website.
 
 ![code image](/images/faviconcode.png)
 
@@ -357,6 +361,3 @@ Voila! With this, my personal website also has a favicon that is unique to the w
 ![my icon](/images/iconhighlighted.png)
 
 My initials are not clear because of design issues, and I will rework the design over the next few weeks. Here’s what my favicon looks like on my browser. So now, everytime I want to look for my website, I know which tab is my website with just one quick look!
-
-
-
