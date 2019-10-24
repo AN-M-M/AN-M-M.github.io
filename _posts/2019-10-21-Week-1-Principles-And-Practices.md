@@ -329,3 +329,32 @@ Deleted the existing repository. To delete an existing repository, again select 
 I then recreated a new repository and uploaded all the files I had downloaded, and voila, the website was again up and running.
 
 Manu’s theory is also that github will only allow you to set up those websites that are the same as your user name, which is why AN-M-M/AN-M-M.github.io will work, but AN-M-M/anjalineelakantan.github.io will not. I need to run this theory by Richard and conduct some additional research on this.
+
+**Day 6 - 24 October 2019 (Thursday), 1:37pm
+
+Yesterday, once I was done with setting up my personal website and having it fully up and running, I decided to play around with my website to create some fun personalisation to it. I had noticed favicons on my web browser. 
+
+Favicons are the little icons that we see on our web browser next to the name of the website. The envelope next to our gmail accounts, the notepad icon next to the google docs link, the colourful G next to the google search page. Favicons allow us to immediately understand which websites are open when we have multiple tabs open on our browser.
+
+![favicon on web browser](/images/faviconexample.png)
+
+So here’s how I set up a favicon image on my personal website:
+
+Step 1: I started off by creating a simple image that I wanted to use for my website. For this I used a desktop version of [Sketch](https://www.sketch.com/) to create a logo with my initials. 
+
+![my logo](/images/ANfavicon.png)
+
+Step 2: For github to recognise a favicon it has be a .ico file. So, I first converted the logo from a sketch drawing file to a PNG file and subsequently used an [online converter](https://convertio.co/) to convert the file the file from PNG to an ICO file. 
+
+Step 3: I then uploaded the ICO file into my image folder on the github repository.
+
+Step 4: Using the instructions I found online on a [Medium blog](https://medium.com/@LazaroIbanez/how-to-add-a-favicon-to-github-pages-403935604460), I used the code from the page and inserted it into the defaults file in the layouts folder. I knew this to be the right place for the code, because all the code in the defaults file replicate across all the pages on my website --- which is why the ‘Home’, ‘About’, ‘CV’, and ‘Blog’ headings in grey can be seen on every page on my website.
+
+![code image](/images/faviconcode.png)
+
+With this, my personal website also has a favicon that is unique to the website. My initials are not clear because of design issues, and I will rework the design over the next few weeks. Here’s what my favicon looks like on my browser. So now, everytime I want to look for my website, I know which tab is my website with just one quick look!
+
+![my icon](/images/iconhighlighted.png)
+
+
+
