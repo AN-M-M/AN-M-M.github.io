@@ -109,7 +109,7 @@ In the digital fabrication workshop, they have the following machines:
 
 Now each of these in a little bit of detail.
 
-1. 3D printers
+*3D printers*
 
 ![3D printers](/images/3Dprinters.jpg){:height="360px" width="500px"}
 
@@ -117,65 +117,65 @@ Now each of these in a little bit of detail.
 
   The 3D printers available here are XXX model. The model will come with its own list of specifications that will outline what    kind of inputs can be used. These 3D printers are predominantly used for rapid protoyping using a method called fusion        deposition modelling. For instance, the standard 3D printers, including the ones here in the workshop use spools or           filament of different types of plastic. The prominent ones that are used are -- PLA (Poly Lactic Acid), ABS (Acrylonitrile      Butadiene Styrene), FLEX (combination of PET-G and TPU), and PET-G. Each material has its own strength and weaknesses and     hence different uses. For instance, ABS is typically used in car interiors and panelling. These printers can print objects      with dimensions: 20cm by 20cm by 20cm. The spool of plastic that is used in the printers usually has a diameter of 1.7mm.
 
-2. Handheld 3D scanner
+*Handheld 3D scanner*
 
 ![handheld scanner](/images/handheldscanner.jpg){:height="360px" width="500px"}
 
   This is quite an interesting tool -- it is first connected to a laptop using a wire. The 3D scanner has a camera and a          gyroscope, which is moved gently around the object or person that needs to be scanned -- moving slowly from left to right,    keeping the object/person at a distance. I watched a 3D scan of the digital fabricator mentor, Saali. This can be fed into    the 3D printer for printing.
 
-3. PCB maker
+*PCB maker*
 
 ![PCB maker](/images/pcbmaker.png){:height="360px" width="500px"}
 
   This machine allows for the electrical circuit design to be engraved on the board. The gel purpose PCB generally has a          plastic base, with a 0.1mm thickness of copper layered on top of it. The PCB maker is fed the electrical circuit design,      and all it does is leave an engraving on the board. This is called a milling process and is a form of subtractive             manufacturing.
 
-4. Mug printer
+*Mug printer*
 
 ![mug printer](/images/mugprinter.png){:height="360px" width="400px"}
 
   This can print on top of  mug -- need to check with Saali if printing means adding something colourful or its black and white? It can take only flat surface and regular shaped mugs, but not urn shaped mugs.
 
-5. Cap printer
+*Cap printer*
 
   I have not seen it yet, since it is not with the other tools on the workshop floor.
 
-6. Tshirt printer
+*Tshirt printer*
 
 ![tshirt printer](/images/tshirtprinter.png){:height="360px" width="500px"}
 
   This can print on top of tshirts. How it works, is that a sticker is first printed (using an external vendor), and the sticker is pressed on to the tshirt with some heat to imprint the design on the sticker onto the tshirt. Cotton tshirts work best, because polyester may melt.
 
-7. Miniature laser cutting machine (3D printer, PCB plotter, engraving)
+*Miniature laser cutting machine (3D printer, PCB plotter, engraving)*
 
 ![mini laser cutter](/images/minilasercutter.png){:height="360px" width="400px"}
 
   This machine has been designed in-house -- unclear to me if an existing 3D printer was converted to serve all three purposes or it was fully made from scratch here. But it is mostly used for the three purposes mentioned here, and not much for laser cutting. It uses a 5W diode laser.
 
-8. Sticker/Vinyl cutter
+*Sticker/Vinyl cutter*
 
 ![stickercutter](/images/stickercutter.jpg){:height="360px" width="500px"}
 
   If you have a sticker design and want that shaped cut out of a sheet of paper, the sticker/vinyl cutter can do it.
 
-9. Laser engraver
+*Laser engraver*
 
 ![laser engraver](/images/laserengraver.jpg){:height="360px" width="500px"}
 
   This can be used to engrave on top of wood and acrylic.
 
-10. Laser cutter
+*Laser cutter*
 
 ![Laser cutter](/images/lasercutter.jpg){:height="360px" width="500px"}
 
   This can be used to cut through wood and acrylic.
 
-11. CNC router
+*CNC router*
 
 ![cnc router](/images/cncrouter.png){:height="360px" width="500px"}
 
   While the laser cutter can cut through wood and acrylic, the CNC router is for cutting through metal. This is referred to as a 2.5D carving machine. It can also create 3D-looking images on wood, much like relief structures that we see in buildings.
 
-12. Design computer 
+*Design computer*
 
 ![digital computer](/images/digitalcomputer.jpg){:height="360px" width="500px"}
 
@@ -330,7 +330,7 @@ I then recreated a new repository and uploaded all the files I had downloaded, a
 
 Manu’s theory is also that github will only allow you to set up those websites that are the same as your user name, which is why AN-M-M/AN-M-M.github.io will work, but AN-M-M/anjalineelakantan.github.io will not. I need to run this theory by Richard and conduct some additional research on this.
 
-**Day 6 - 24 October 2019 (Thursday), 1:37pm
+**Day 6 - 24 October 2019 (Thursday), 1:37pm**
 
 Yesterday, once I was done with setting up my personal website and having it fully up and running, I decided to play around with my website to create some fun personalisation to it. I had noticed favicons on my web browser. 
 
@@ -352,9 +352,11 @@ Step 4: Using the instructions I found online on a [Medium blog](https://medium.
 
 ![code image](/images/faviconcode.png)
 
-With this, my personal website also has a favicon that is unique to the website. My initials are not clear because of design issues, and I will rework the design over the next few weeks. Here’s what my favicon looks like on my browser. So now, everytime I want to look for my website, I know which tab is my website with just one quick look!
+Voila! With this, my personal website also has a favicon that is unique to the website. 
 
 ![my icon](/images/iconhighlighted.png)
+
+My initials are not clear because of design issues, and I will rework the design over the next few weeks. Here’s what my favicon looks like on my browser. So now, everytime I want to look for my website, I know which tab is my website with just one quick look!
 
 
 
