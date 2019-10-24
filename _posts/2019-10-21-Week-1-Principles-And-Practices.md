@@ -350,7 +350,7 @@ Step 3: I then uploaded the ICO file into my image folder on the github reposito
 
 Step 4: Using the instructions I found online on a [Medium blog](https://medium.com/@LazaroIbanez/how-to-add-a-favicon-to-github-pages-403935604460), I used the code from the page and inserted it into the defaults file in the layouts folder. I knew this to be the right place for the code, because all the code in the defaults file replicate across all the pages on my website --- which is why the ‘Home’, ‘About’, ‘CV’, and ‘Blog’ headings in grey can be seen on every page on my website.
 
-![code image](/images/faviconcode.png)
+
 
 Voila! With this, my personal website also has a favicon that is unique to the website. 
 
