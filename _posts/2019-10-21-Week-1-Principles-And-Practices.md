@@ -344,7 +344,7 @@ Step 1: I started off by creating a simple image that I wanted to use for my web
 
 ![my logo](/images/ANfavicon.png)
 
-Step 2: For github to recognise a favicon it has be a .ico file. So, I first converted the logo from a sketch drawing file to a PNG file and subsequently used an [online converter](https://convertio.co/) to convert the file the file from PNG to an ICO file. 
+Step 2: For github to recognise a favicon it has be a .ico file. So, I first converted the logo from a sketch drawing file to a PNG file and subsequently used an [online converter](https://convertio.co/) to convert the file from a PNG file to an ICO file. 
 
 Step 3: I then uploaded the ICO file into my image folder on the github repository.
 
