@@ -8,7 +8,7 @@ date: 2019-10-25
 
 To kickstart the project management week, I first watched a video on project management on the [fabacademy website](https://vimeopro.com/academany/fab-2019/video/314004299).
 
-![project management video][/images/pmfabacademyvideo.png]{:height="360px" width="500px"}
+
 
 In this tutorial, Neil covered the basics of tools that we’ll be using during our project work -- this may be for synchronisation, version control or web development.
 
