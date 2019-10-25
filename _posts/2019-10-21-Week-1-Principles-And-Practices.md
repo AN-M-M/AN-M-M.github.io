@@ -115,12 +115,12 @@ Now each of these in a little bit of detail.
   > ![3D printers](/images/3Dprinters2.jpg){:height="360px" width="500px"}
 
 2. Handheld 3D scanner
- > This is quite an interesting tool -- it is first connected to a laptop using a wire. The 3D scanner has a camera and a        gyroscope, which is moved gently around the object or person that needs to be scanned -- moving slowly from left to right,    keeping the object/person at a distance. I watched a 3D scan of the digital fabricator mentor, Saali. This can be fed into    the 3D printer for printing.
+ > This is quite an interesting tool -- it is first connected to a laptop using a wire. The 3D scanner has a camera and a gyroscope, which is moved gently around the object or person that needs to be scanned -- moving slowly from left to right, keeping the object/person at a distance. I watched a 3D scan of the digital fabricator mentor, Saali. This can be fed into    the 3D printer for printing.  
    > ![handheld scanner](/images/handheldscanner.jpg){:height="360px" width="500px"}
 
 3. PCB maker
- > ![PCB maker](/images/pcbmaker.png){:height="360px" width="500px"}
- This machine allows for the electrical circuit design to be engraved on the board. The gel purpose PCB generally has a          plastic base, with a 0.1mm thickness of copper layered on top of it. The PCB maker is fed the electrical circuit design,      and all it does is leave an engraving on the board. This is called a milling process and is a form of subtractive manufacturing.
+ This machine allows for the electrical circuit design to be engraved on the board. The gel purpose PCB generally has a plastic base, with a 0.1mm thickness of copper layered on top of it. The PCB maker is fed the electrical circuit design, and all it does is leave an engraving on the board. This is called a milling process and is a form of subtractive manufacturing.  
+  > ![PCB maker](/images/pcbmaker.png){:height="360px" width="500px"}
 
 4. Mug printer
 
