@@ -11,6 +11,8 @@ To kickstart the project management week, I first watched a video on project man
 In this tutorial, Neil covered the basics of tools that we’ll be using during our project work -- this may be for synchronisation, version control or web development.
 
 However, the main focus was on how to manage your project well. For this he covered 7 basic principles:
+
+
 **1. Triage** - while working through the project, I need to pick projects that lie at the intersection of my ambition and what can be accomplished.
 
 **2. Demand and supply side time management** - I need to balance between tasks that are necessary but take a lot of time, or fix the time and decide the tasks and schedule work around that.
