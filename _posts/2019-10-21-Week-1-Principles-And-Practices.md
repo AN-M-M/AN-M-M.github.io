@@ -110,16 +110,9 @@ In the digital fabrication workshop, they have the following machines:
 Now each of these in a little bit of detail.
 
 1. 3D printers
-
->  Every 3D printer model will come with its own list of specifications that will outline what kind of inputs can be used. These 3D printers are predominantly used for rapid protoyping using a method called fusion deposition modelling. For instance, the standard 3D printers, including the ones here in the workshop use spools or filament of different types of plastic. The prominent ones that are used are -- PLA (Poly Lactic Acid), ABS (Acrylonitrile Butadiene Styrene), FLEX (combination of PET-G and TPU), and PET-G. Each material has its own strength and weaknesses and hence different uses. For instance, ABS is typically used in car interiors and panelling. These printers can print objects with dimensions: 20cm by 20cm by 20cm. The spool of plastic that is used in the printers usually has a diameter of 1.7mm.
-
-- Every 3D printer model will come with its own list of specifications that will outline what kind of inputs can be used. These 3D printers are predominantly used for rapid protoyping using a method called fusion deposition modelling. For instance, the standard 3D printers, including the ones here in the workshop use spools or filament of different types of plastic. The prominent ones that are used are -- PLA (Poly Lactic Acid), ABS (Acrylonitrile Butadiene Styrene), FLEX (combination of PET-G and TPU), and PET-G. Each material has its own strength and weaknesses and hence different uses. For instance, ABS is typically used in car interiors and panelling. These printers can print objects with dimensions: 20cm by 20cm by 20cm. The spool of plastic that is used in the printers usually has a diameter of 1.7mm.
-
-
- 
-> ![3D printers](/images/3Dprinters.jpg){:height="360px" width="500px"}
-
-> ![3D printers](/images/3Dprinters2.jpg){:height="360px" width="500px"}
+> Every 3D printer model will come with its own list of specifications that will outline what kind of inputs can be used. These 3D printers are predominantly used for rapid protoyping using a method called fusion deposition modelling. For instance, the standard 3D printers, including the ones here in the workshop use spools or filament of different types of plastic. The prominent ones that are used are -- PLA (Poly Lactic Acid), ABS (Acrylonitrile Butadiene Styrene), FLEX (combination of PET-G and TPU), and PET-G. Each material has its own strength and weaknesses and hence different uses. For instance, ABS is typically used in car interiors and panelling. These printers can print objects with dimensions: 20cm by 20cm by 20cm. The spool of plastic that is used in the printers usually has a diameter of 1.7mm.
+ > ![3D printers](/images/3Dprinters.jpg){:height="360px" width="500px"}
+ > ![3D printers](/images/3Dprinters2.jpg){:height="360px" width="500px"}
 
 2. Handheld 3D scanner
  > This is quite an interesting tool -- it is first connected to a laptop using a wire. The 3D scanner has a camera and a        gyroscope, which is moved gently around the object or person that needs to be scanned -- moving slowly from left to right,    keeping the object/person at a distance. I watched a 3D scan of the digital fabricator mentor, Saali. This can be fed into    the 3D printer for printing.
@@ -127,7 +120,7 @@ Now each of these in a little bit of detail.
 
 3. PCB maker
  > ![PCB maker](/images/pcbmaker.png){:height="360px" width="500px"}
- This machine allows for the electrical circuit design to be engraved on the board. The gel purpose PCB generally has a          plastic base, with a 0.1mm thickness of copper layered on top of it. The PCB maker is fed the electrical circuit design,      and all it does is leave an engraving on the board. This is called a milling process and is a form of subtractive             manufacturing.
+ This machine allows for the electrical circuit design to be engraved on the board. The gel purpose PCB generally has a          plastic base, with a 0.1mm thickness of copper layered on top of it. The PCB maker is fed the electrical circuit design,      and all it does is leave an engraving on the board. This is called a milling process and is a form of subtractive manufacturing.
 
 4. Mug printer
 
