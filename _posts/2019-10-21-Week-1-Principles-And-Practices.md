@@ -119,60 +119,42 @@ Now each of these in a little bit of detail.
    > ![handheld scanner](/images/handheldscanner.jpg){:height="360px" width="500px"}
 
 3. PCB maker
- This machine allows for the electrical circuit design to be engraved on the board. The gel purpose PCB generally has a plastic base, with a 0.1mm thickness of copper layered on top of it. The PCB maker is fed the electrical circuit design, and all it does is leave an engraving on the board. This is called a milling process and is a form of subtractive manufacturing.  
+ > This machine allows for the electrical circuit design to be engraved on the board. The gel purpose PCB generally has a plastic base, with a 0.1mm thickness of copper layered on top of it. The PCB maker is fed the electrical circuit design, and all it does is leave an engraving on the board. This is called a milling process and is a form of subtractive manufacturing.  
   > ![PCB maker](/images/pcbmaker.png){:height="360px" width="500px"}
 
 4. Mug printer
-
-  ![mug printer](/images/mugprinter.png){:height="360px" width="400px"}
-
-  This can print on top of  mug -- need to check with Saali if printing means adding something colourful or its black and white? It can take only flat surface and regular shaped mugs, but not urn shaped mugs.
+ > This can print on top of  mug -- need to check with Saali if printing means adding something colourful or its black and white? It can take only flat surface and regular shaped mugs, but not urn shaped mugs.  
+   > ![mug printer](/images/mugprinter.png){:height="360px" width="400px"}
 
 5. Cap printer
-
-  I have not seen it yet, since it is not with the other tools on the workshop floor.
+ > I have not seen it yet, since it is not with the other tools on the workshop floor.
 
 6. Tshirt printer
-
- ![tshirt printer](/images/tshirtprinter.png){:height="360px" width="500px"}
-
- This can print on top of tshirts. How it works, is that a sticker is first printed (using an external vendor), and the sticker is pressed on to the tshirt with some heat to imprint the design on the sticker onto the tshirt. Cotton tshirts work best, because polyester may melt.
+ > This can print on top of tshirts. How it works, is that a sticker is first printed (using an external vendor), and the sticker is pressed on to the tshirt with some heat to imprint the design on the sticker onto the tshirt. Cotton tshirts work best, because polyester may melt.  
+   > ![tshirt printer](/images/tshirtprinter.png){:height="360px" width="500px"}
 
 7. Miniature laser cutting machine (3D printer, PCB plotter, engraving)
-
- ![mini laser cutter](/images/minilasercutter.png){:height="360px" width="400px"}
-
- This machine has been designed in-house -- unclear to me if an existing 3D printer was converted to serve all three purposes or it was fully made from scratch here. But it is mostly used for the three purposes mentioned here, and not much for laser cutting. It uses a 5W diode laser.
+ > This machine has been designed in-house -- unclear to me if an existing 3D printer was converted to serve all three purposes or it was fully made from scratch here. But it is mostly used for the three purposes mentioned here, and not much for laser cutting. It uses a 5W diode laser.  
+   > ![mini laser cutter](/images/minilasercutter.png){:height="360px" width="400px"}
 
 8. Sticker/Vinyl cutter
-
- ![stickercutter](/images/stickercutter.jpg){:height="360px" width="500px"}
-
- If you have a sticker design and want that shaped cut out of a sheet of paper, the sticker/vinyl cutter can do it.
+ > If you have a sticker design and want that shaped cut out of a sheet of paper, the sticker/vinyl cutter can do it.  
+   > ![stickercutter](/images/stickercutter.jpg){:height="360px" width="500px"}
 
 9. Laser engraver
-
- ![laser engraver](/images/laserengraver.jpg){:height="360px" width="500px"}
-
- This can be used to engrave on top of wood and acrylic.
+ > This can be used to engrave on top of wood and acrylic.  
+   > ![laser engraver](/images/laserengraver.jpg){:height="360px" width="500px"}
 
 10. Laser cutter
-
- ![Laser cutter](/images/lasercutter.jpg){:height="360px" width="500px"}
-
- This can be used to cut through wood and acrylic.
+ > This can be used to cut through wood and acrylic.  
+  > ![Laser cutter](/images/lasercutter.jpg){:height="360px" width="500px"}
 
 11. CNC router
-
- ![cnc router](/images/cncrouter.png){:height="360px" width="500px"}
-
- While the laser cutter can cut through wood and acrylic, the CNC router is for cutting through metal. This is referred to as a 2.5D carving machine. It can also create 3D-looking images on wood, much like relief structures that we see in buildings.
-
+ > While the laser cutter can cut through wood and acrylic, the CNC router is for cutting through metal. This is referred to as a 2.5D carving machine. It can also create 3D-looking images on wood, much like relief structures that we see in buildings.  
+  > ![cnc router](/images/cncrouter.png){:height="360px" width="500px"}
 12. Design computer
-
- ![digital computer](/images/digitalcomputer.jpg){:height="360px" width="500px"}
-
- If you create a design for an object, any one of the above machines can then be used to create the physical form of the object. 
+ > If you create a design for an object, any one of the above machines can then be used to create the physical form of the object.  
+  > ![digital computer](/images/digitalcomputer.jpg){:height="360px" width="500px"}
 
 Apart from exploring the digital fabrication machines, I will take some time to explore other forms of documentation as well, like [wikifactory](https://wikifactory.com/) and [inventables](https://www.inventables.com/). 
   
