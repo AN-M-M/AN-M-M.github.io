@@ -50,3 +50,24 @@ For integrating github, the online version, with githu desktop, there are a numb
 4. "Push origin" to github - this command button is also available on github desktop for you to move the changes you've made locally onto the online version.
 
 Once you push the changes, and refresh the website, the website is updated with all the changes you've made. 
+
+**Day X - 26 October 2019 (Saturday)**
+
+**Home experiments - Making cornflour-based bioplastic at home**
+
+On Friday evening, while reading up on bioplastics, I came across videos on 'how to make bioplastic at home.' It looked like something that would be easy to make, given most of the ingredients were in my kitchen pantry.
+
+Using the instruction from a [Green Plastics Youtube video](https://www.youtube.com/watch?v=5M_eDLyfzp8), I made bioplastic with cornflour as the main ingredient -- cornflour is maize starch. The other ingredients I used were water, gylcerine, and vinegar. The recipe called for plain vinegar, but I had only apple cider vinegar and I decided to use it anyway.
+
+![ingredients picture](/images/ingredients.jpg)
+
+This is what the bioplastic looked like when I just took it hot off the stove and spread it on a aluminium foil.
+
+![set bioplastic](/images/setbioplastic.jpg)
+
+I made this at around 10am on Saturday morning, and kept the foil with the bioplastic in a safe, cool place away from moisture to ensure that the bioplastic sets thoroughly. I checked around 10am on Sunday morning, 24 hours after I'd made it, and it had cooled down completely and set as well. It had a pungent apple cider vinegar smell, which is to be expected I suppose. The texture was a little brittle -- when I tried stretching the bioplastic sheet, it tore the sheet. The sheet feels a little rubbery as well, and not the typicaly plastic texture that I expected. 
+
+![cornflour plastic](/images/cornflourplastic.jpg)
+
+This was a good start to understanding materials, and I'm looking forward to making more of this bioplastic with other plant starch varieties.
+
