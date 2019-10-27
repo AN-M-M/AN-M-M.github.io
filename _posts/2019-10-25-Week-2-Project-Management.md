@@ -59,15 +59,15 @@ On Friday evening, while reading up on bioplastics, I came across videos on 'how
 
 Using the instruction from a [Green Plastics Youtube video](https://www.youtube.com/watch?v=5M_eDLyfzp8), I made bioplastic with cornflour as the main ingredient -- cornflour is maize starch. The other ingredients I used were water, gylcerine, and vinegar. The recipe called for plain vinegar, but I had only apple cider vinegar and I decided to use it anyway.
 
-![ingredients picture](/images/ingredients.jpg)
+![ingredients picture](/images/ingredients.jpg){:height="360px" width="500px"}
 
 This is what the bioplastic looked like when I just took it hot off the stove and spread it on a aluminium foil.
 
-![set bioplastic](/images/setbioplastic.jpg)
+![set bioplastic](/images/setbioplastic.jpg){:height="360px" width="500px"}
 
 I made this at around 10am on Saturday morning, and kept the foil with the bioplastic in a safe, cool place away from moisture to ensure that the bioplastic sets thoroughly. I checked around 10am on Sunday morning, 24 hours after I'd made it, and it had cooled down completely and set as well. It had a pungent apple cider vinegar smell, which is to be expected I suppose. The texture was a little brittle -- when I tried stretching the bioplastic sheet, it tore the sheet. The sheet feels a little rubbery as well, and not the typicaly plastic texture that I expected. 
 
-![cornflour plastic](/images/cornflourplastic.jpg)
+![cornflour plastic](/images/cornflourplastic.jpg){:height="360px" width="500px"}
 
 This was a good start to understanding materials, and I'm looking forward to making more of this bioplastic with other plant starch varieties.
 
