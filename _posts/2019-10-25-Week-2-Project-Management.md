@@ -44,4 +44,9 @@ In the first version of my website, for Day 1, I had listed out the machinery in
 After multiple iterations and attempts, I finally realised that there was an empty line between the list item title and the description. So I removed the empty line between the title and the description and between the description and the picture. This solved one problem -- so now the list was working, with the numbers in a neat progression. However, because of the lack of a gap between the description and the picture, the picture was coming up in between the description making it difficult to read continuously. To correct this, I inserted two spaces after the last sentence of the description. This automatically pushed the picture into a new line. I also indented the description and the picture with a >.
 
 For integrating github, the online version, with githu desktop, there are a number of steps:
-1. You have to.
+1. You have to first "Pull" any changes made on github onto github desktop.
+2. The changes that have been made on sublime text editor have to be saved.
+3. "Commit to master" the changes made in the content with sublime text editor -- this commit button is available on github desktop.
+4. "Push origin" to github - this command button is also available on github desktop for you to move the changes you've made locally onto the online version.
+
+Once you push the changes, and refresh the website, the website is updated with all the changes you've made. 
