@@ -36,3 +36,12 @@ Markdown tutorials that I used to learn markdown syntax:
 
 All these tutorials and guides on markdown have the same information, but reading it repetitively has helped me recollect the syntax for text formatting a lot more quickly. 
 
+After reading the tutorial, I fixed some formatting issues on my website. For this, I downloaded [Github Desktop](https://desktop.github.com/) and [sublime text editor](https://www.sublimetext.com/3). The advantages of downloading these two are as follows:
+firstly, Github desktop will allow me to clone a local version of my online repository, making it available for me offline -- even enabling me to add files and documents to the local file, which will synchronise with the online website when I enable it, and secondly sublime text editor will allow me to edit the content of the website offline -- so I don't have to have a steady internet connection while working.
+
+In the first version of my website, for Day 1, I had listed out the machinery in the digital fabrication workshop, with a description of the capabilities of these machines, and a picture. However, the list was not working on the website. While I wanted them to be listed 1,2,3,4... it was showing as 1,1,1,1. For some reason that wasn't immediately obvious to me, the code was not able to read it as a continuous list.
+
+After multiple iterations and attempts, I finally realised that there was an empty line between the list item title and the description. So I removed the empty line between the title and the description and between the description and the picture. This solved one problem -- so now the list was working, with the numbers in a neat progression. However, because of the lack of a gap between the description and the picture, the picture was coming up in between the description making it difficult to read continuously. To correct this, I inserted two spaces after the last sentence of the description. This automatically pushed the picture into a new line. I also indented the description and the picture with a >.
+
+For integrating github, the online version, with githu desktop, there are a number of steps:
+1. You have to.
