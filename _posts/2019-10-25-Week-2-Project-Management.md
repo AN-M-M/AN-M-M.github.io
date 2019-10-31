@@ -85,7 +85,7 @@ Yes, there is an existing [solution that uses granules of cornstarch in silicon 
 
 What is it going to look like? (A sketch)
 
-![Idea 1](/images/idea1.jpg){:height="360px" width="500px"}
+![Idea 1](/images/Idea1.jpg){:height="360px" width="500px"}
 
 Other comments
 
@@ -113,7 +113,7 @@ Yes, there is nothing novel about it. Many gardens have been set up like this, w
 
 What is it going to look like? (A sketch)
 
-![idea 3](/images/idea3.jpg){:height="360px" width="500px"}
+![idea 3](/images/Idea3.jpg){:height="360px" width="500px"}
 
 Fleshing out the details
 
@@ -140,9 +140,9 @@ Yes, but most of the GPS trackers are expensive, like this one on [amazon](https
 
 What is it going to look like? (A sketch)
 
-![idea 5a](/images/idea5a.jpg){:height="360px" width="500px"}
+![idea 5a](/images/Idea5a.jpg){:height="360px" width="500px"}
 
-![idea 5b](/images/idea5b.jpg){:height="360px" width="500px"}
+![idea 5b](/images/Idea5b.jpg){:height="360px" width="500px"}
 
 --------------------------------------
 
@@ -156,4 +156,4 @@ To my knowledge, I don’t think there is any product or service that currently 
 
 What is it going to look like? (A sketch)
 
-![idea 6](/images/idea6.jpg){:height="360px" width="500px"}
+![idea 6](/images/Idea6.jpg){:height="360px" width="500px"}
