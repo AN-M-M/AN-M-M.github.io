@@ -92,15 +92,40 @@ Yes, there is an existing [solution that uses granules of cornstarch in silicon 
 While this is patented, I’d like to see if I can figure out how to recreate this in India. This is still fairly new, and has not been tried and tested in many parts of the world. This may be a good temporary solution to look into, until city municipalities fix the potholes permanently. 
 
 --------------------------------------
-**__Idea 2: Sustainable food packaging__**
+**__Idea 2: Sustainable food packaging for restaurants and other food delivery services__**
 
-**Motivation for idea:** 
+**Motivation for idea:** For a few months now, I've been mulling with the idea of possible business ideas to pursue. On one evening, after a dinner get together with around 15 people, we found ourselves in the kitchen with 20 or more individual plastic food containers. It left me feeling uneasy and uncomfortable knowing there was nothing I could do about it except dump them in all the dry waste bin. I've tried to be responsible while using plastic. For instance, at one point in time, we were buying large 25litre bisleri cans for our daily water consumption. Once they were empty, I would then cut out their mouths, widening them, drill small holes at the bottom, add soil to it and grow plants in them -- This was particularly useful for fruit saplings like papaya, which I have since then transplanted into the ground since they required more space and a deeper level of soil.
+
+However, I could not do the same with these plastic food containers. I've tried reusing them in the past, but washing and reusing them has just resulted in more of them accummulating in the kitchen, which is also not desirable for me. So, how could I help solve this problem for the businesses that are currently using plastic food packaging?
+
+While conducting some secondary research online, I discovered that there were companies that were providing sustainable packaging alternatives like making plastic containers out of bagasse or cornstarch (what are commonly referred to as bioplastics) but these solutions had not scaled up as successfully as they wanted.
+
+On speaking to some food delivery companies, I learnt many interesting things:
+
+1. Bioplastics and sustainable food packaging options are not cost effective - food delivery companies do not want to pay for the additional premium, and consumers don't want to pay either.
+2. Current spend on by food delivery companies on packaging is 15% of total cost and 20-30% of total cost for delivery
+3. On Bagasse - a lot of people have tried bagasse - for an Indian scenario, it might not work since there are liquid food items - any steam trapped inside can make the dry dishes soggy.
+4. Cornstarch has also not worked successfully for Indian meals. 
+
+What are some of their requirements?
+
+- lightweight
+- spill proof
+- plastic range (three compartment, four compartment) - INR 15
+- reusable packaging - turmeric wont go
+- disposable
+- cornstarch - is that sustainable
+- no need for reverse logistics
+- sturdy enough to be stacked one on top of another
+
 
 **Has it been already done? If so, is my work going to add any additional value to an existing one or is it going to be a replication?**
 
+There is some on-going research and development in this area, but there has not been a single product or service or product that has been able to implement sustainable packaging at scale. 
 
 **What is it going to look like? (A sketch)**
 
+It will look like existing packaging material, I think, but the material may be different. 
 
 --------------------------------------
 **__Idea 3: Drip irrigation system that can be remotely controlled over the phone, with sensors to measure soil moisture and nutrient content(if possible), and camera to see if everything looks ok or not from a remote location.__**
@@ -117,15 +142,17 @@ Yes, there is nothing novel about it. Many gardens have been set up like this, w
 
 --------------------------------------
 
-**__Idea 4: Desalination -- is there a cheaper way to do it? Can it be done at home? Or low cost water purification__**
+**__Idea 4: Sound proof, noise cancelling headphones__**
 
-**Motivation for idea:** 
+**Motivation for idea:** Every time M works out of a co-working space, or even from our home, he complains about the myraid types of noises that are distracting to him -- like, people talking, coffee machine whirring, dog barking, train horn etc. He keeps wishing there was a solution that worked much like a helmet and he could wear it to cancel out all noises and work in a quiet environment.
 
 **Has it been already done? If so, is my work going to add any additional value to an existing one or is it going to be a replication?**
 
+There are noise cancelling headphones but I think they cancel out a specific frequency or type of noise alone and not all noises. For instance, the noise-cancelling headphones that M currently uses cancels out the noise the jet engine noise on an airplane, but does nothing in a co-working space. 
+
 **What is it going to look like? (A sketch)**
 
-
+I haven't designed this yet, but maybe it has to look like a helmet so provide that type of silence. 
 
 --------------------------------------
 **__Idea 5: (i) Cheap GPS tag collar for dogs that can help track their movement, (or) (ii) A security system that can capture movement around a home to know what’s happening there when the owners are not at home__**
