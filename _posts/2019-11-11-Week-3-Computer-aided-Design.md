@@ -110,7 +110,7 @@ Here is what the 3D printed model looks like.
 
 ![idea 3](/images/blueboxangle3.JPG){:height="360px" width="500px"}
 
-<video src="/images/blueboxvideo.mp4/" width="320" height="200" controls preload></video>
+<video src="/images/blueboxvideo.mp4" width="320" height="200" controls preload></video>
 
 Here is what my 3D design looks like on TinkerCAD.
 
