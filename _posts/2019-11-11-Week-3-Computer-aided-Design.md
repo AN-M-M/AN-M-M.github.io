@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 3: Computer-aided Design"
+title: "Week 3: Design"
 date: 2019-11-11
 ---
 
