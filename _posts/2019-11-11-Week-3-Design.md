@@ -8,7 +8,7 @@ date: 2019-11-11
 
 For the design week, I started off by watching a fab academy video.
 
-[AN TO insert screenshot of the picture]
+![idea 3](/images/week3video.png){:height="360px" width="500px"}
 
 According to the video, for this week, I had to pick any final project that I wanted to work on, and learn to design it using the tools that the video covered.
 
@@ -80,23 +80,23 @@ For instance, I used GIMP and Inkscape for 2D design. On both, I learnt to draw 
 
 Exercises on GIMP
 
-[INSERT PICTURE]
+![idea 3](/images/learninggimp.png){:height="360px" width="500px"}
 
 Exercises on Inkscape 
 
-[INSERT PICTURE]
+![idea 3](/images/learninginkscape.png){:height="360px" width="500px"}
 
 Apart from geometric shapes, I also tried to create objects from day-to-day life. So I designed a chess pawn (on M's request). To design this pawn, I divided the pawn into multiple geometric shapes and assembled them together. I sketched it out to identify the individual parts, and then used gimp to recreate it. It's not a perfect pawn -- the imperfection I see is around the body of the pawn which is usually curved, while mine is boxy since I used a rectangular shape to create the body. Note to self: Learn to create curved objects on GIMP.
 
-[INSERT SKETCH]
+![idea 3](/images/chesspawnsketch.JPG){:height="360px" width="500px"}
 
-[INSERT GIMP IMAGE]
+[![idea 3](/images/pawnongimp.png){:height="360px" width="500px"}
 
 After that, I worked on Inkscape to create a packaging box. Again, similar to the pawn, I first drew this out on paper with basic geometric shapes, and then recreated the same on Inkscape. This is also incompletel; as you can see the side flaps should be like an equilateral triangle and they are curerntly a right angled triangle. I am still trying to figure out how I can fix this.
 
-[INSERT SKETCH]
+[![idea 3](/images/2dpackagingboxsketch.JPG){:height="360px" width="500px"}
 
-[INSERT INKSCAPE IMAGE]
+[![idea 3](/images/packagingbox.png){:height="360px" width="500px"}
 
 GIMP and INKSCAPE were mainly for 2D designs, so I moved to 3D designs. One of my fellow students at the class suggested I start with TinkerCAD since it is a userfriendly tool. TinkerCAD is a cloud-based design tool. Interestingly, it also has a short tutorial on how to create designs. I undertook the tutorial and got started with my designs.
 
@@ -104,6 +104,18 @@ I took a 3D printed model of what looked like a house floor plan and designed it
 
 Here is what the 3D printed model looks like.
 
-[INSERT IMAGES]
+[![idea 3](/images/blueboxangle1.JPG){:height="360px" width="500px"}
+
+[![idea 3](/images/blueboxangle2.JPG){:height="360px" width="500px"}
+
+[![idea 3](/images/blueboxangle3.JPG){:height="360px" width="500px"}
+
+[![idea 3](/images/blueboxvideo.MOV)
 
 Here is what my 3D design looks like on TinkerCAD.
+
+[![idea 3](/images/cadangle1.png){:height="360px" width="500px"}
+
+[![idea 3](/images/cadangle2.png){:height="360px" width="500px"}
+
+[![idea 3](/images/cadangle3.png){:height="360px" width="500px"}
