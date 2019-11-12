@@ -80,17 +80,17 @@ For instance, I used GIMP and Inkscape for 2D design. On both, I learnt to draw 
 
 Exercises on GIMP
 
-![idea 3](/images/learninggimp.png){:height="360px" width="450px"}
+![idea 3](/images/learninggimp.png){:height="360px" width="400px"}
 
 Exercises on Inkscape 
 
-![idea 3](/images/learninginkscape.png){:height="360px" width="450px"}
+![idea 3](/images/learninginkscape.png){:height="360px" width="400px"}
 
 Apart from geometric shapes, I also tried to create objects from day-to-day life. So I designed a chess pawn (on M's request). To design this pawn, I divided the pawn into multiple geometric shapes and assembled them together. I sketched it out to identify the individual parts, and then used gimp to recreate it. It's not a perfect pawn -- the imperfection I see is around the body of the pawn which is usually curved, while mine is boxy since I used a rectangular shape to create the body. Note to self: Learn to create curved objects on GIMP.
 
-![idea 3](/images/chesspawnsketch.JPG){:height="360px" width="500px"}
+![idea 3](/images/chesspawnsketch.JPG){:height="360px" width="400px"}
 
-![idea 3](/images/pawnongimp.png){:height="360px" width="500px"}
+![idea 3](/images/pawnongimp.png){:height="360px" width="400px"}
 
 After that, I worked on Inkscape to create a packaging box. Again, similar to the pawn, I first drew this out on paper with basic geometric shapes, and then recreated the same on Inkscape. This is also incompletel; as you can see the side flaps should be like an equilateral triangle and they are curerntly a right angled triangle. I am still trying to figure out how I can fix this.
 
