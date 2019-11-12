@@ -13,11 +13,13 @@ For the design week, I started off by watching a fab academy video.
 According to the video, for this week, I had to pick any final project that I wanted to work on, and learn to design it using the tools that the video covered.
 
 For 2D design, the following tools were recommended,
+
 Raster
 1. GIMP
 2. Photoshop
 3. Mypaint for sketches (lets you choose material brush -- emulates drawing on material)
 4. Image magick (can convert existing image into any image format)
+
 Vector
 1. Inkscape
 2. Illustrator
@@ -84,3 +86,24 @@ Exercises on Inkscape
 
 [INSERT PICTURE]
 
+Apart from geometric shapes, I also tried to create objects from day-to-day life. So I designed a chess pawn (on M's request). To design this pawn, I divided the pawn into multiple geometric shapes and assembled them together. I sketched it out to identify the individual parts, and then used gimp to recreate it. It's not a perfect pawn -- the imperfection I see is around the body of the pawn which is usually curved, while mine is boxy since I used a rectangular shape to create the body. Note to self: Learn to create curved objects on GIMP.
+
+[INSERT SKETCH]
+
+[INSERT GIMP IMAGE]
+
+After that, I worked on Inkscape to create a packaging box. Again, similar to the pawn, I first drew this out on paper with basic geometric shapes, and then recreated the same on Inkscape. This is also incompletel; as you can see the side flaps should be like an equilateral triangle and they are curerntly a right angled triangle. I am still trying to figure out how I can fix this.
+
+[INSERT SKETCH]
+
+[INSERT INKSCAPE IMAGE]
+
+GIMP and INKSCAPE were mainly for 2D designs, so I moved to 3D designs. One of my fellow students at the class suggested I start with TinkerCAD since it is a userfriendly tool. TinkerCAD is a cloud-based design tool. Interestingly, it also has a short tutorial on how to create designs. I undertook the tutorial and got started with my designs.
+
+I took a 3D printed model of what looked like a house floor plan and designed it using TinkerCAD. 
+
+Here is what the 3D printed model looks like.
+
+[INSERT IMAGES]
+
+Here is what my 3D design looks like on TinkerCAD.
