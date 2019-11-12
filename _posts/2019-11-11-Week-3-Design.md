@@ -80,11 +80,11 @@ For instance, I used GIMP and Inkscape for 2D design. On both, I learnt to draw 
 
 Exercises on GIMP
 
-![idea 3](/images/learninggimp.png){:height="360px" width="400px"}
+![idea 3](/images/learninggimp.png){:height="360px" width="360px"}
 
 Exercises on Inkscape 
 
-![idea 3](/images/learninginkscape.png){:height="360px" width="400px"}
+![idea 3](/images/learninginkscape.png){:height="360px" width="360px"}
 
 Apart from geometric shapes, I also tried to create objects from day-to-day life. So I designed a chess pawn (on M's request). To design this pawn, I divided the pawn into multiple geometric shapes and assembled them together. I sketched it out to identify the individual parts, and then used gimp to recreate it. It's not a perfect pawn -- the imperfection I see is around the body of the pawn which is usually curved, while mine is boxy since I used a rectangular shape to create the body. Note to self: Learn to create curved objects on GIMP.
 
