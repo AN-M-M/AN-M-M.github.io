@@ -7,7 +7,7 @@ date: 2019-11-21
 
 As with all the previous weeks, I started this week with a fabacademy video on computer controlled cutting. The video broadly covered all the machines and tools that would be required for computer controlled cutting processes.
 
-PICTURE OF FABACADEMY VIDEO
+![fab academy home page](/images/fabacademyweek4.png){:height="360px" width="500px"}
 
 Some of the notes from the video are as follows:
 1. 2D cutting involved laser cutter and assembly models
