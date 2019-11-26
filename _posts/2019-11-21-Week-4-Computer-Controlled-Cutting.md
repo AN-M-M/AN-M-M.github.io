@@ -230,7 +230,7 @@ Keeping these two factors in mind, I worked with a block of 5mm MDF wood. Howeve
 
 The following is the tree design I initially made.
 
-![idea 3](/images/treedesign1.jpg){:height="360px" width="400px"}
+![idea 3](/images/treedesign1.png){:height="360px" width="400px"}
 
 Once I completed the design, I saved the file as a .dxf file (Digital Exchange Format), saved it on a pendrive and opened it on thunderlaser software in the design computer at the workshop. On Thunderlaser, Salih suggested that, based on the material and the design, we set a power of 80% and speed of 10%. Since the design computer could not be connected to the laser cutter directly. We copied the settings onto a USD drive and inserted it into the laser cutter. This is the first cut of the tree parts.
 
@@ -242,7 +242,7 @@ So I redesigned the second trunk, and the leaves, ensuring that the measurements
 
 Here is what the second design looks like on Inkscape.
 
-![idea 3](/images/treedesign2.jpg){:height="360px" width="400px"}
+![idea 3](/images/treedesign2.png){:height="360px" width="400px"}
 
 Here are pictures of the ashoka tree as a fully put together pressfit construction kit.
 
