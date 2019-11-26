@@ -216,3 +216,43 @@ After explaining the basic working of the cutter and the engraver, I downloaded 
 
 In a typical press fit construction kit, the pieces will have to fit into each other neatly without the need for any adhesive. However, in the case of the case, some of the parts come off the whole quite easily. I think this could be for two reasons: 1) material used -- while the thingiverse page suggested the use of 3mm MDF, we used acrylic, maybe MDF would have held the pieces together more snugly?, 2) design flaw - it could be that the joints could have been more tightly (lesser width) designed. We can conclusively say this only if I make modifications to the design, and try cutting them out again.
 
+For the snail project, I used another maker's design to understand the things I have to keep in mind while designing a pressfit construction kit. As a next step, I designed my very own tree pressfit construction kit. The following picture was a rough paper sketch of what I wanted the tree to look like. 
+
+![idea 3](/images/treesketch.jpg){:height="360px" width="400px"}
+
+Similar to the crane and snail exercise, I divided the whole tree into individual parts and designed the following parts: 1) Base (to hold the trunk with branches and leaves, 2nos.), 2) trunk with branches, and 3) leaves
+
+I designed these parts on Inkscape. For the joints, I decided to go with a 5.2mm width. Before beginning my design, Salih suggested that I keep two things in mind while designing,
+1) Material width (so the places with the joints have the same measurements as the material width)
+2) Machine tolerance or machine error - so if we have to cut at 53mm, we cut at 53.1mm to leave a margin of error for the machine.
+
+Keeping these two factors in mind, I worked with a block of 5mm MDF wood. However, when I measured the width of the 5mm MDF, it was actually 5.2mm thick. 
+
+The following is the tree design I initially made.
+
+![idea 3](/images/treedesign1.jpg){:height="360px" width="400px"}
+
+Once I completed the design, I saved the file as a .dxf file (Digital Exchange Format), saved it on a pendrive and opened it on thunderlaser software in the design computer at the workshop. On Thunderlaser, Salih suggested that, based on the material and the design, we set a power of 80% and speed of 10%. Since the design computer could not be connected to the laser cutter directly. We copied the settings onto a USD drive and inserted it into the laser cutter. This is the first cut of the tree parts.
+
+![idea 3](/images/treeparts.jpg){:height="360px" width="400px"}
+
+It is only after fully cutting the tree out did I realise that the leaf width had inadvertently modified to 3.1mm, instead of 5.2mm. This means that the leaves would not fit onto the tree. The reamining parts did. However, because of the width of one of the trunks, it lacked structural integrity to hold the branches and that broke easily as well.
+
+So I redesigned the second trunk, and the leaves, ensuring that the measurements lined up. This time, for the leaf, I took a width of 5.3mm, and on cutting this out on the board, it fit in perfectly this time.
+
+Here is what the second design looks like on Inkscape.
+
+![idea 3](/images/treedesign2.jpg){:height="360px" width="400px"}
+
+Here are pictures of the ashoka tree as a fully put together pressfit construction kit.
+
+![idea 3](/images/ashokatree1.jpg){:height="360px" width="400px"}
+
+![idea 3](/images/ashokatree2.jpg){:height="360px" width="400px"}
+
+![idea 3](/images/ashokatree3.jpg){:height="360px" width="400px"}
+
+Here is a video that shows how the parts are joined together neatly without an adhesive, and simply by joining together. They do not fall apart when you turn them upside down. 
+
+<video src="/images/ashokatree.mp4" width="320" height="200" controls preload></video>
+
