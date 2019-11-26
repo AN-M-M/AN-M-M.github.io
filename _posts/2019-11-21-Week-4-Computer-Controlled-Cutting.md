@@ -252,7 +252,9 @@ Here are pictures of the ashoka tree as a fully put together pressfit constructi
 
 ![idea 3](/images/ashokatree3.jpg){:height="360px" width="400px"}
 
-Here is a video that shows how the parts are joined together neatly without an adhesive, and simply by joining together. They do not fall apart when you turn them upside down. 
+[The stallions in the pictures above were not designed by me; they were designed and laser cut by Salih.]
+
+Here is a video that shows how the parts are joined together neatly without an adhesive, and simply by joining together. They do not fall apart when you turn them upside down. That's a win!
 
 <video src="/images/ashokatree.mp4" width="320" height="200" controls preload></video>
 
