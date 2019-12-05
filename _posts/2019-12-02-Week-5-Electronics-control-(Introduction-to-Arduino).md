@@ -39,17 +39,17 @@ After watching the video, Richard suggested I do some additional reading on the 
 
 Here are three pictures on basic electronics that Richard drew out on a notebook while explaining:
 
-![fab academy home page](/images/notes1.jpg){:height="360px" width="500px"}
+![fab academy home page](/images/notes1.jpeg){:height="360px" width="500px"}
 
-![fab academy home page](/images/notes2.jpg){:height="360px" width="500px"}
+![fab academy home page](/images/notes2.jpeg){:height="360px" width="500px"}
 
-![fab academy home page](/images/notes3.jpg){:height="360px" width="500px"}
+![fab academy home page](/images/notes3.jpeg){:height="360px" width="500px"}
 
 After this, I worked on DFRobot's Beginner Kit for Arduino. This is what the kit looks like and these are the components that are available with the kit.
 
-![fab academy home page](/images/arduinokit.jpg){:height="360px" width="500px"}
+![fab academy home page](/images/arduinokit.jpeg){:height="360px" width="500px"}
 
-![fab academy home page](/images/arduinocomponents.jpg){:height="360px" width="500px"}
+![fab academy home page](/images/arduinocomponents.jpeg){:height="360px" width="500px"}
 
 The kit has a series of 15 tasks or projects for a user to get comfortable with the components. I downloaded the Arduino IDE, which allowed me to write codes to programme the arduino to perform the tasks listed in the kit.
 
