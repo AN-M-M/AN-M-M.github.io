@@ -39,11 +39,11 @@ After watching the video, Richard suggested I do some additional reading on the 
 
 Here are three pictures on basic electronics that Richard drew out on a notebook while explaining:
 
-![fab academy home page](/images/notes1.jpg){:height="360px" width="500px"}
+![fab academy home page](/images/notes1.jpg){:height="500px" width="360px"}
 
-![fab academy home page](/images/notes2.jpg){:height="360px" width="500px"}
+![fab academy home page](/images/notes2.jpg){:height="500px" width="360px"}
 
-![fab academy home page](/images/notes3.jpg){:height="360px" width="500px"}
+![fab academy home page](/images/notes3.jpg){:height="500px" width="360px"}
 
 After this, I worked on DFRobot's Beginner Kit for Arduino. This is what the kit looks like and these are the components that are available with the kit.
 
