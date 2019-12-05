@@ -127,7 +127,7 @@ Project 9: Auto light
 
 ![fab academy home page](/images/project9/project9-2.jpg){:height="360px" width="500px"}
 
-<video src="/images/project9/project9-3.mp4" width="320" height="200" controls preload></video>
+![fab academy home page](/images/project9/project9-3.jpg){:height="360px" width="500px"}
 
 Project 10: Moving a Servo
 
