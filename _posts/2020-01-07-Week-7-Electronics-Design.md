@@ -83,13 +83,13 @@ A PCB consists of a base made of fibreglass, with a copper coating on top. Once 
 
 We then worked on a few exercise kits that Yuva impulse uses for the schools that they work with.
 
-1. Match the parts. 
+Exercise 1. Match the parts. 
 
 Left side has birds and right side has their feet. With the exercise, I had to put in the right connections behind the board, and then when connections are made on the front of the board -- the buzzer will ring and LED will come alive if the right items are matched. Here is what the back of the board looks like.
 
 ![fab academy home page](/images/matchtheboard.jpg){:height="360px" width="500px"}
 
-2. Solar powered fan cap
+Exercise 2. Solar powered fan cap
 
 This was a really interesting project. With this kit, I assembled the components available in the kit to create a propellor in a cap that powers itself using solar energy. 
 
@@ -103,7 +103,7 @@ Here's what the cap looks like when fully assembled.
 
 <video src="/images/solarcap.mp4" width="320" height="200" controls preload></video>
 
-3. Electromagnetic bell
+Exercise 3. Electromagnetic bell
 
 Here, I put together the components to power a hammer that will hit a bell -- much like how a door bell rings. However, in this, the connections did not align as well as it should so it vibrated a little when I put it together, but did not ring fully. 
 
@@ -123,13 +123,13 @@ I spent atleast eight hours working on this -- I'm mentioning this only to show 
 
 As an exercise, I designed some more circuits on EASYEDA based on existing designs I found online. These include:
 
-1. Remote control for home appliance
+Design 1. Remote control for home appliance
 
 ![fab academy home page](/images/remotecontrolforhomeappliance.png){:height="360px" width="500px"}
 
 Source: Found on [electronicsforu website](https://www.electronicsforu.com/electronics-projects/hardware-diy/remote-control-for-home-appliances-3)
 
-2. A PIR motion detected light sensor
+Design 2. A PIR motion detected light sensor
 
 ![fab academy home page](/images/pirmotion.png){:height="360px" width="500px"}
 
